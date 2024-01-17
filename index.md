@@ -3,7 +3,7 @@
 print("hello, welcome to my page!")
 ```
 <img src="./IMG_1249.jpg" hight="60%" width="40%">  
-<!--
+<!---
 ### my email: j9liu@ucsd.edu
 ### here is my [Github page](https://github.com/LJW0105)
 ### here is my [README](README.md)
@@ -37,4 +37,4 @@ My favorite **quote** is
 - [x] Find a ***lab*** in computer vision
 - [ ] Find an ***internship*** of software programmer
 - [ ] Finish an independent research ***project***
--->
+--->
